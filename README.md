@@ -1,1 +1,1 @@
-Flutterda dart ile yaptığım loginli kişisel sözlük
+Flutterda dart ile yaptığım loginli kişisel sözlük projesi
