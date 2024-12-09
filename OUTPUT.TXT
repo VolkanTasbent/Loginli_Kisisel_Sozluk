@@ -1,0 +1,7 @@
+0 0 0 1 1
+Old State 	Input 	New State 	Output
+-----------------------------------
+q0        	-     	q1        	0     
+q1        	a     	q0        	0     
+q0        	b     	q2        	0     
+q2        	b     	q2        	1     
