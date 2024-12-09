@@ -1,1 +1,1 @@
-# Loginli_Kisisel_Sozluk
+Flutterda dart ile yaptığım loginli kişisel sözlük
